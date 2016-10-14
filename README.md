@@ -6,7 +6,7 @@ That being said, the vendors have given up a level of obfuscation that was provi
 ##### Timeline:
 __Disclosure to Vendor:__ 2016-10-03
 
-__Vendor Response:__ TBA
+__Vendor Response:__ 2016-10-04
 
 __Vendor Fix/Patch:__ TBA
 
